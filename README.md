@@ -1,5 +1,5 @@
 # ace
-# Bootstrap-Node Portfolio Website
+# Portfolio Website
 
 ## Overview
 
@@ -24,6 +24,6 @@ This project is a personal portfolio website built using Bootstrap 5 for respons
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/bootstrap-node-portfolio.git
+   git clone https://github.com/murdhawke/ace.git
    cd bootstrap-node-portfolio
 
