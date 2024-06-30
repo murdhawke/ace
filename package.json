@@ -2,13 +2,14 @@
   "name": "ace",
   "version": "1.0.0",
   "description": "Portfolio website using Bootstrap.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.0.1"
+    "bootstrap": "^5.0.1",
+    "express": "^4.19.2"
   }
 }
